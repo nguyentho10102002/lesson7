@@ -1,6 +1,6 @@
 package employeemanagement;
 import java.util.Scanner;
-public class Employee {
+public class  Employee {
 
     //Tạo lớp Employee chứa thông tin: tên, giới tính, ngày sinh, địa chỉ
 //Viết đầy đủ các hàm getter setter, constructor không tham số, constructor đầy đủ tham số
